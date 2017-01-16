@@ -34,13 +34,9 @@ public class ArraySortTest {
 					}
 				}// for j
 			}//for i
-			
 			for(int i=0;i<nums.length;i++){
 				System.out.println("내림차순 : " + nums[i]+" ");
 			}
 		}
-		
-		
 	}
-
 }
